@@ -1,0 +1,24 @@
+{
+  "name": "frontendstore",
+  "version": "1.0.0",
+  "description": "Projeto do Front.",
+  "main": "index.js",
+  "scripts": {
+    "test": " run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paravani-Store/FrontEndStore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paravani-Store/FrontEndStore/issues"
+  },
+  "homepage": "https://github.com/Paravani-Store/FrontEndStore#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  }
+}
